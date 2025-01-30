@@ -1,8 +1,0 @@
-when@dev:
-    _errors:
-        resource: '@FrameworkBundle/Resources/config/routing/errors.xml'
-        prefix: /_error
-hello_api:
-    path: /api/hello
-    controller: App\Controller\ApiController::hello
-
